@@ -1,7 +1,8 @@
-Unum V1
+Unum SP
 -------
 
-An AHAH-protocol based primitive static site system, think of it as a slightly better `<iframe>`. This is a theoretically useful platform/boilerplate for writing some web applications, or some kind of internal wiki, but other than that, there is probably something better for you than this.
+A single page system
+`document.getElementsByClassName("pages");`
 
 ## How-to
 
